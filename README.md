@@ -1,5 +1,7 @@
 # Theme Based Project: Data Analytics and Visualization of VES data
 ## (using R-Studio and Python) 
+
+### Objectives:
 - To provide an efficient calculating tool for Geologists and Hydrologists to perform the calculations of VES.
 - To avoid manual and rounding errors during the calculations.
 - To computerise the work done by them.
